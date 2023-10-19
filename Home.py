@@ -30,7 +30,7 @@ def run():
         """
         This is the place where I will play around with Streamlit.
 
-        Check out my Linkedin and Github for more of my work.
+        Check out my [Linkedin](https://www.linkedin.com/in/hein-de-wilde/) and [Github](https://github.com/hpdewilde) for more of my work.
         """
     )
 
